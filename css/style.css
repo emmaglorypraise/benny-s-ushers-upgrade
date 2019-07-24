@@ -379,6 +379,12 @@ div#preloader {
 .sticky-logo h1 span {
   color: #d4556a;
 }
+
+
+.sticky-logo img{
+  border-radius: 50%;
+}
+
 .stick .main-menu ul.navbar-nav li.active > a::after {
   border: 1px solid #fff;
   bottom: 0px;
